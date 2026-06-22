@@ -20,13 +20,15 @@ and provides remote monitoring through Telegram.
 - LDR Sensor
 - Relay Module 4 chanel
 - 4 lamp AC
-
+- 3 LED
+- Resistor 220 ohm (4 pcs)
 ## Software
 - Arduino IDE
 - Telegram Bot API
 
 ## PCB Design
-Custom PCB designed using EasyEDA.
+![Skema Wiring Proyek](3dBottompcb.png)
+![Skema Wiring Proyek](3dToppcb.png)
 
 ## Skematic wiring
 ![Skema Wiring Proyek](skematic.png)
