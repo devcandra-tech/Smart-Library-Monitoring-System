@@ -28,8 +28,8 @@ and provides remote monitoring through Telegram.
 ## PCB Design
 Custom PCB designed using EasyEDA.
 
-## Project Images
-Project photos will be added here.
+## Skematic wiring
+![Skema Wiring Proyek](skematic.png)
 
 ## Author
 Devin Candra
