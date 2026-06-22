@@ -11,14 +11,15 @@ and provides remote monitoring through Telegram.
 - Automatic lighting control
 - Telegram bot integration
 - Real-time monitoring
-- Dfplayer 
-- Speaker 8 ohm 
+- An automatic warning will be issued if high noise levels are detected.
 
 ## Hardware
 - ESP32
 - Sound Sensor (KY-037 / FC-04)
 - LDR Sensor
 - Relay Module 4 chanel
+- dfPlayer mini
+- Speaker mini 8 ohm
 - 4 lamp AC
 - 3 LED
 - Resistor 220 ohm (4 pcs)
