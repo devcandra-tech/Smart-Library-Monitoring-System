@@ -34,5 +34,4 @@ and provides remote monitoring through Telegram.
 ## Skematic wiring
 ![Skema Wiring Proyek](skematic.png)
 
-## Author
-Devin Candra
+
