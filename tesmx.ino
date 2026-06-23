@@ -9,14 +9,14 @@
 // =====================================================
 // WIFI
 // =====================================================
-const char* ssid     = "YOLANDA";
-const char* password = "mentaripagi";
+const char* ssid     = "urwifi";
+const char* password = "urpw";
 
 // =====================================================
 // TELEGRAM
 // =====================================================
-#define BOTtoken  "8950351712:AAFZmUkq4GiSx0tj7iDKXHS0UctfRF_zA4M"
-#define CHAT_ID   "7713963810"
+#define BOTtoken  "urtoken"
+#define CHAT_ID   "urid"
 
 WiFiClientSecure client;
 UniversalTelegramBot bot(BOTtoken, client);
